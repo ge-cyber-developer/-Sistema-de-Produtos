@@ -1,0 +1,16 @@
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\bin\Debug\net5.0\SISTEMA DE PRODUTOS.exe
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\bin\Debug\net5.0\SISTEMA DE PRODUTOS.deps.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\bin\Debug\net5.0\SISTEMA DE PRODUTOS.runtimeconfig.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\bin\Debug\net5.0\SISTEMA DE PRODUTOS.runtimeconfig.dev.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\bin\Debug\net5.0\SISTEMA DE PRODUTOS.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\bin\Debug\net5.0\ref\SISTEMA DE PRODUTOS.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\bin\Debug\net5.0\SISTEMA DE PRODUTOS.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\obj\Debug\net5.0\SISTEMA DE PRODUTOS.csprojAssemblyReference.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\obj\Debug\net5.0\SISTEMA DE PRODUTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\obj\Debug\net5.0\SISTEMA DE PRODUTOS.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\obj\Debug\net5.0\SISTEMA DE PRODUTOS.AssemblyInfo.cs
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\obj\Debug\net5.0\SISTEMA DE PRODUTOS.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\obj\Debug\net5.0\SISTEMA DE PRODUTOS.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\obj\Debug\net5.0\ref\SISTEMA DE PRODUTOS.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\obj\Debug\net5.0\SISTEMA DE PRODUTOS.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\SISTEMA DE PRODUTOS\obj\Debug\net5.0\SISTEMA DE PRODUTOS.genruntimeconfig.cache
